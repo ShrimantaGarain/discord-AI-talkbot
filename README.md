@@ -1,5 +1,4 @@
-# talk-bot
-Talk with an AI in a Discord VC
+DISCORD AI Talk
 
 <br>
 
@@ -10,6 +9,5 @@ Talk with an AI in a Discord VC
 
 <br>
 
-## Upcoming Features
-- Support for input in different languages
-- Add accent for all languages the bot can talk in
+Thanks to @shadeoxide for his TalkBot repo and additional support!
+great guy!
